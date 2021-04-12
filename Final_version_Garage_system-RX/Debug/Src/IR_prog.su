@@ -1,0 +1,2 @@
+IR_prog.c:20:6:IR_voidIntialize	16	static
+IR_prog.c:44:4:IR_u8GetState	16	static

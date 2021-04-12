@@ -1,0 +1,3 @@
+RCC_prog.c:15:7:RCC_voidInit	16	static
+RCC_prog.c:92:6:RCC_voidEnablePeripheralCLK	16	static
+RCC_prog.c:105:6:RCC_voidDisablePeripheralCLK	16	static

@@ -1,0 +1,3 @@
+keypad.c:13:7:KeyPad_Intialize	4	static
+keypad.c:56:11:KeyPad_4x4_adjustKeyNumber	16	static
+keypad.c:96:4:KeyPad_getPressedKey	16	static

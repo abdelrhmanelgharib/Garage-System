@@ -1,0 +1,2 @@
+switch_program.c:14:6:SW_voidIntialize	16	static
+switch_program.c:29:4:SW_u8GetState	24	static

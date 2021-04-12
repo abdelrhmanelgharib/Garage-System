@@ -1,0 +1,3 @@
+Alarm_prog.c:12:6:Alarm_voidInit	8	static
+Alarm_prog.c:23:6:Alarm_voidAlarmOn	8	static
+Alarm_prog.c:31:6:Alarm_voidAlarmOff	8	static

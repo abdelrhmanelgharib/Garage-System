@@ -1,0 +1,6 @@
+GPIO_Program.c:11:6:GPIO_void_setPin_Direction	16	static
+GPIO_Program.c:84:6:GPIO_void_setPin_Output_Type	16	static
+GPIO_Program.c:138:6:GPIO_void_setPin_value	16	static
+GPIO_Program.c:169:11:GPIO_PIN_VALUE_getPin_value	24	static
+GPIO_Program.c:187:6:LOCK_PIN_CONFIG	16	static
+GPIO_Program.c:218:6:GPIO_voidSetAltFunction	16	static

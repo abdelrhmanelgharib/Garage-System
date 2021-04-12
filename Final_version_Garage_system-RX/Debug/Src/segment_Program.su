@@ -1,0 +1,4 @@
+segment_Program.c:14:6:SEVSEG_VoidInitialize	16	static
+segment_Program.c:64:6:SEVSEG_VoidDisplay	16	static
+segment_Program.c:159:6:SEVSEG_VoidEnable	16	static
+segment_Program.c:177:6:SEVSEG_VoidDisable	16	static

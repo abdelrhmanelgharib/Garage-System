@@ -1,0 +1,4 @@
+services.c:25:6:Open_Door	8	static
+services.c:36:6:Close_Door	8	static
+services.c:49:4:Check_Password	16	static
+services.c:62:6:Set_All_EXTI	8	static

@@ -1,0 +1,4 @@
+spi_program.c:23:7:SPI_voidInit	8	static
+spi_program.c:35:7:SPI_voidSendRecieveSynch	16	static
+spi_program.c:51:6:SPI1_IRQHandler	4	static
+spi_program.c:56:7:SPI_voidSendRecieveAsynch	16	static

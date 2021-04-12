@@ -1,0 +1,2 @@
+flame_sensor_prog.c:20:6:Flame_sensor_voidIntialize	8	static
+flame_sensor_prog.c:35:4:Flame_sensor_u8GetState	8	static
